@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;//引入SQL Server資料庫相關命名空間
 
+// 介紹簡報：https://docs.google.com/presentation/d/14vkL0MwNTd-t7vCpwoAzCtJqCmwM5UJm7eWH_-FWEg4/edit?usp=sharing
+// gitHub 介紹簡報：https://docs.google.com/presentation/d/1bsC2VY4m_cO4gZ-BRBUTJiuk5mZsxQ67UEjCrXVsmh4/edit?usp=sharing
 namespace DBApplication01
 {
     public partial class Form1 : Form
